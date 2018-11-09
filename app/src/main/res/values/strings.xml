@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMiniSlot</string>
+    <string name="kakekinup">掛け金up</string>
+    <string name="kakkekindown">kakinn</string>
+    <string name="kakekindown">掛け金down</string>
+    <string name="startbtn">スタート</string>
+    <string name="modorubtn">戻る</string>
+    <string name="strStartEng">START</string>
+</resources>
